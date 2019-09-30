@@ -5,4 +5,4 @@
 This project is currently being run by CREA, Cornell University where I provide with the analytics support. The code base is designed, developed and maintained by myself and the team.
 
 Eg. Analysis like this
-[[https://github.com/muralits98/CREA_NYSDOLProject/blob/master/Capture1.png|alt=octocat]]
+[[https://github.com/muralits98/CREA_NYSDOLProject/blob/master/Capture1.png | alt=octocat]]
